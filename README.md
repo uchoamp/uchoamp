@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning the low level ⚙  
+- 📖 I’m currently reading "The C Programming Language" by Kernighan and Ritchie
 - 📫 azurique10111@gmail.com
 
 
