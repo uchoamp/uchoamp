@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcos
 - 👀 I’m interested in everything
-- 📖 I’m currently reading "The C Programming Language" by Kernighan and Ritchie
-- 📫 azurique10111@gmail.com
+- 📖 I love abstractions
+- 📫 marcospacheco10111@gmail.com
 
 
 
